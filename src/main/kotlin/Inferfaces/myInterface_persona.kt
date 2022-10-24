@@ -18,9 +18,7 @@ var _salario:Float?=0f
 
         if ()
     }
-      override fun imprimir() {
-          super.imprimir()
-      }
+
   }
     }
 
